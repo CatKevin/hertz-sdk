@@ -1,16 +1,16 @@
 {
   "name": "leekswap-sdk",
   "license": "MIT",
-  "version": "1.0.0",
-  "description": "🛠 An SDK for building applications on top of pancakeswap.",
+  "version": "1.0.4",
+  "description": "🛠 An SDK for building applications on top of leekswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancakeswap-sdk.git",
+  "repository": "https://github.com/cryptoleek-team/leekswap-sdk.git",
   "keywords": [
-    "pancakeswap",
+    "leekswap",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",

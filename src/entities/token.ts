@@ -77,5 +77,12 @@ export const WETH = {
     18,
     'WMATIC',
     'Wrapped MATIC'
-  )
+  ),
+  [ChainId.MATIC_TESTNET]: new Token(
+    ChainId.MATIC_TESTNET,
+    '0x5B67676a984807a212b1c59eBFc9B3568a474F0a',
+    18,
+    'WMATIC',
+    'Wrapped Matic'
+  ),
 }

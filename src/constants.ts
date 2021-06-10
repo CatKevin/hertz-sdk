@@ -7,6 +7,7 @@ export enum ChainId {
   MAINNET = 56,
   BSCTESTNET = 97,
   MATIC = 137,
+  MATIC_TESTNET = 80001,
 }
 
 export enum TradeType {
@@ -20,7 +21,7 @@ export enum Rounding {
   ROUND_UP
 }
 
-export const FACTORY_ADDRESS = '0x697c9BF5943E68FbC724386911e72c4Ae1f83e09'
+export const FACTORY_ADDRESS = '0x025d0844fbF5eEeF63BccaD04CF0113567ec2Be9'
 
 export const INIT_CODE_HASH = '0xf32d021371d13b65441cb2764486607996cc61763503fa0e41a8f58d0e721dc9'
 
